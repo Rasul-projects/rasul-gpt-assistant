@@ -119,7 +119,8 @@ python main.py
 
 Project Structure:--
 
-rasul-gpt-assistant/
+rasul-gpt-assistant//
+
 │
 
 ├──> src/
