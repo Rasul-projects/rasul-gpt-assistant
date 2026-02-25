@@ -184,6 +184,6 @@ This project is licensed under the MIT License.
 
 ### Mobile View
 
-![Mobile Chat](screenshots/mobile-chat.png)
+![Mobile Chat](screenshots/mobile-chat.jpeg)
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshots/mobile-view.jpeg)
