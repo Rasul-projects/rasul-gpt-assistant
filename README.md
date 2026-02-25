@@ -180,7 +180,7 @@ This project is licensed under the MIT License.
 
 ![Desktop Chat](screenshots/desktop-chat.png)
 
-![AI Response](screenshots/desktop-ai.png)
+![AI Response](screenshots/desktop-ai.PNG)
 
 ### Mobile View
 
