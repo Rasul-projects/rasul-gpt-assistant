@@ -172,7 +172,9 @@ Please follow standard open-source contribution practices.
 
 This project is licensed under the MIT License.
 
+
 ## Output Screenshots
+
 
 ### Desktop View
 
@@ -182,6 +184,6 @@ This project is licensed under the MIT License.
 
 ### Mobile View
 
-![Mobile Chat](screenshots/chat-1.png)
+![Mobile Chat](screenshots/mobile-chat.png)
 
-![Mobile View](screenshots/chat-2.png)
+![Mobile View](screenshots/mobile-view.png)
