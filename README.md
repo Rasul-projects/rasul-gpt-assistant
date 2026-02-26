@@ -2,6 +2,8 @@
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
+This chatbot is a user-friendly and gives good accuracy results.
+
 
 Project Overview:-
 
