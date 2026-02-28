@@ -175,16 +175,16 @@ Please follow standard open-source contribution practices.
 This project is licensed under the MIT License.
 
 
-## Output Screenshots
+## Output Screenshots:-
 
 
-### Desktop View
+### Desktop View:-
 
 ![Desktop Chat](screenshots/desktop-chat.png)
 
 ![AI Response](screenshots/desktop-ai.PNG)
 
-### Mobile View
+### Mobile View:-
 
 ![Mobile Chat](screenshots/mobile-chat.jpeg)
 
