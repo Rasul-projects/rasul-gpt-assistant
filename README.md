@@ -104,7 +104,7 @@ This design ensures maintainability, scalability, and flexibility for future imp
 :-Modular Software Design Principles
 
 
-Installation:--
+Installation:-
 
 //Clone the repository:
 
@@ -151,7 +151,7 @@ The structure is designed for clarity, scalability, and ease of contribution.
 
 *Educational and experimental NLP systems
 
-//Future Improvements:--
+//Future Improvements:-
 
 *Memory-based conversation support
 
