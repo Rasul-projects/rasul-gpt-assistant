@@ -79,7 +79,7 @@ Key Features:--
 
 //System Architecture
 
-The project follows a modular architecture consisting of:--
+The project follows a modular architecture consisting of:-
 
 *Input Processing Layer — handles user queries and preprocessing
 
