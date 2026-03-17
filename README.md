@@ -27,7 +27,7 @@ Objectives:-
 
 *Enable future research and feature expansion
 
-Key Features:--
+Key Features:-
 
 //Conversational Intelligence
 
