@@ -5,7 +5,7 @@ An intelligent AI chatbot with modern interface, fast performance, and user-frie
 This chatbot is a user-friendly and gives good accuracy results.
 
 
-Project Overview:-
+Project Overview:--
 
 rasul-gpt-assistant is an AI-powered conversational assistant designed to provide intelligent responses, task automation, and context-aware interactions using modern natural language processing techniques. The project focuses on building a scalable, modular, and production-ready assistant that can be extended for multiple real-world applications.
 
@@ -13,7 +13,7 @@ The system is designed with clean architecture principles, efficient response ha
 
 This project aims to demonstrate strong software engineering practices, AI integration, and maintainable system design suitable for large-scale open-source programs such as Google Summer of Code.
 
-Objectives:-
+Objectives:--
 
 *Build a reliable conversational AI assistant
 
