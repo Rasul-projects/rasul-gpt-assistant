@@ -104,7 +104,7 @@ This design ensures maintainability, scalability, and flexibility for future imp
 :-Modular Software Design Principles
 
 
-Installation:--
+Installation:-
 
 //Clone the repository:-
 
