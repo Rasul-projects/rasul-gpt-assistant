@@ -13,7 +13,7 @@ The system is designed with clean architecture principles, efficient response ha
 
 This project aims to demonstrate strong software engineering practices, AI integration, and maintainable system design suitable for large-scale open-source programs such as Google Summer of Code.
 
-Objectives      
+Objectives       
 
 *Build a reliable conversational AI assistant
 
