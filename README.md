@@ -1,11 +1,11 @@
-# rasul-gpt-assistant :--
+# rasul-gpt-assistant :-
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
 
 This chatbot is a user-friendly and gives good accuracy results.
  
 
-Project Overview:--
+Project Overview:-
 
 rasul-gpt-assistant is an AI-powered conversational assistant designed to provide intelligent responses, task automation, and context-aware interactions using modern natural language processing techniques. The project focuses on building a scalable, modular, and production-ready assistant that can be extended for multiple real-world applications.
 
