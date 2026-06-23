@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :-qwe
+## rasul-gpt-assistant :-qw
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
 
