@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :-123456789zxcvbnm
+## rasul-gpt-assistant :-123456789zxcvbn
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
 
