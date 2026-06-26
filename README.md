@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- 1234567890-=qwerty
+## rasul-gpt-assistant :- 1234567890-=qwert
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
 
