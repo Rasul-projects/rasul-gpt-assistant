@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :-qwrtyuiopasdf
+## rasul-gpt-assistant :-qwrtyuiopasd
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
 
