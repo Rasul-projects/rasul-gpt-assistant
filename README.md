@@ -2,7 +2,7 @@
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
 
-This chatbot is a user-friendly and gives good accuracy results..zxcvbnm12345
+This chatbot is a user-friendly and gives good accuracy results..zxcvbnm1234
 
  
 Project Overview:-
