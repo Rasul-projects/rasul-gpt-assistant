@@ -1,8 +1,8 @@
 ## rasul-gpt-assistant :- 
 
-An intelligent AI chatbot with modern interface, fast performance, and user-friendly design. 
+An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
-This chatbot is a user-friendly and gives good accuracy results..zxcvbnm1234
+This chatbot is a user-friendly and gives good accuracy results..zxcvbnm123
 
  
 Project Overview:-
