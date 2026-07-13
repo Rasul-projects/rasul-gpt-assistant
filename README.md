@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- -QWERTYU
+## rasul-gpt-assistant :- -QWERTY
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
