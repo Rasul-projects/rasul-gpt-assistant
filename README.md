@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- -QWERTYUIOPASDFG
+## rasul-gpt-assistant :- -QWERTYUIOPASDF
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
