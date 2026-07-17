@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- qwertypiuasd
+## rasul-gpt-assistant :- qwertypiuas
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
