@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- qwertypiu
+## rasul-gpt-assistant :- qwertypi
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
