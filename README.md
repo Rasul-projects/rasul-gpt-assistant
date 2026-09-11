@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- 
+## rasul-gpt-assistant :- 1234567890qwertyuiop
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
