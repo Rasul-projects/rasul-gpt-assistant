@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :- 123098756o
+## rasul-gpt-assistant :- 123098756
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
