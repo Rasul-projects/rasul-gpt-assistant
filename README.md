@@ -1,5 +1,5 @@
 ## rasul-gpt-assistant :--
-ZXCV
+ZXC
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
