@@ -1,4 +1,4 @@
-## rasul-gpt-assistant :--   1234567890qwwery
+## rasul-gpt-assistant :--   1234567890qwwer
 
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
